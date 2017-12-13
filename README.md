@@ -1,0 +1,2 @@
+# Cryptocurrencies_PowerShell
+Fetch cryptocurrencies information through Powershell command window
